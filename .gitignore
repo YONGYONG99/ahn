@@ -14,6 +14,7 @@ build/
 # Django
 *.sqlite3
 local_settings.py
+.env
 
 # Node / Next.js
 node_modules/
